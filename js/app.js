@@ -9,7 +9,6 @@ var imageData;
 var constraints = {
   audio: false,
   video: {
-    // スマホのバックカメラを使用
     facingMode: 'user'
   }
 };
