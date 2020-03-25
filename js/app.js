@@ -9,7 +9,7 @@ var imageData;
 var constraints = {
   audio: false,
   video: {
-    facingMode: 'user'
+    facingMode: 'environment'
   }
 };
 
